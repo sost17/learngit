@@ -1,3 +1,4 @@
+git hello
 learn git
 success remove git file
 success push file to origin
